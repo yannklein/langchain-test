@@ -1,18 +1,6 @@
-# Google API ruby client examples
-Example code of usage of Google API in ruby (Vision and Translate so far).
-      
-## Setup:
-- Check the code [here](https://github.com/yannklein/google-api-ruby-sandbox)
-- Activate your Google API [here](https://github.com/googleapis/google-cloud-ruby#using-the-client-libraries) and get a JSON file with your creadentials
-- Add the JSON file in a google-credentials.json file in the root folder of your project.
+# LangChain.rb
+Example code of usage of LangChain.rb in ruby
 
+[Documentation](https://github.com/andreibondarev/langchainrb/tree/main)
 
-## Example of Google API usage:
-Check the [code](https://github.com/yannklein/google-api-ruby-sandbox) and [main page](https://google-api-ruby-sandbox.herokuapp.com/)
-- Vision API for Image text detection ([code](https://github.com/yannklein/google-api-ruby-sandbox/blob/main/app.rb#L18), [example](https://google-api-ruby-sandbox.herokuapp.com/vision))
-- Translate ([code](https://github.com/yannklein/google-api-ruby-sandbox/blob/main/app.rb#L24), [example](https://google-api-ruby-sandbox.herokuapp.com/translate))
-
-## Push to production (heroku)
-Use the [following tutorial](https://devdojo.com/bryanborge/adding-google-cloud-credentials-to-heroku) to push your credential on Heroku.
-
-</div>
+![image](https://github.com/yannklein/langchain-test/assets/26819547/77dc2b51-ee20-4b00-8b75-bae6bd8e2667)
